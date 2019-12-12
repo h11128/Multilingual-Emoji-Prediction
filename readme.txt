@@ -12,6 +12,7 @@ BERT+LSETM use BERT pretrained embedding + LSTM model
 BERT+LSETM+LEAVE_HEART use model the same as above and use data that without red_heart 
 
 analysis code: analysis.ipynb
+analysis visuallizatoin: Figure_1-20.png, pemojis.png, emojis.png, Table.png
 analysis.ipynb do the error analysis over the prediction result. Change the path_outputfile in block 2 will show analysis of different models
 
 
