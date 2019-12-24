@@ -11,8 +11,9 @@ LSTM.ipynb is the code of pytorch embedding + LSTM model
 BERT+LSETM use BERT pretrained embedding + LSTM model
 BERT+LSETM+LEAVE_HEART use model the same as above and use data that without red_heart 
 
-analysis code: analysis.ipynb
+analysis code: analysis.ipynb，eval.py
 analysis visuallizatoin: Figure_1-20.png, pemojis.png, emojis.png, Table.png
+eval.py compute the score based on the prediction.txt and gold.labels: do python eval.py gold.labels predictions1.txt
 analysis.ipynb do the error analysis over the prediction result. Change the path_outputfile in block 2 will show analysis of different models
 
 
