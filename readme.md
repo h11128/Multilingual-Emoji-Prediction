@@ -1,3 +1,5 @@
+# see 5525 report for details
+
 project report: 5525_report.pdf
 project slides: 5525_emoji.pdf
 
